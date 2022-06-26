@@ -8,6 +8,9 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
+gem 'tzinfo-data'
+gem 'tzinfo'
+gem "webrick"
 
 gem "github-pages", group: :jekyll_plugins
 
